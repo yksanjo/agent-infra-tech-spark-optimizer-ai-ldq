@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-tech-spark-optimizer-ai-ldq",
+  "version": "1.0.0",
+  "description": "Message queue and event streaming",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "tech-spark-optimizer-ai-ldq"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-tech-spark-optimizer-ai-ldq.git"
+  }
+}
